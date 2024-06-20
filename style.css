@@ -108,10 +108,14 @@ ul li span:hover {
 
 
 @media (max-width: 500px) {
+  .todo-app {
+    max-width: 500px;
+    padding: 40px 10px 70px;
+  }
     input {
         padding: 0;
       }
       button {
-        padding: 16px 40px;
+        padding: 16px 30px;
       }
 }
