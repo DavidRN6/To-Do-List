@@ -105,20 +105,3 @@ ul li span{
 ul li span:hover {
     background: #edeef0;
 }
-
-
-@media (max-width: 500px) {
-  .todo-app {
-    max-width: 450px;
-  }
-  .row {
-    padding-left: 10px;
-  }
-    input {
-        padding: 0;
-        margin-right: 10px;
-      }
-      button {
-        padding: 16px 24px;
-      }
-}
